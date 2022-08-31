@@ -1,0 +1,20 @@
+{
+  "name": "barebones-node-server",
+  "version": "1.0.0",
+  "description": "No Express, Core Modules Only, Final Destination",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warnshouse/barebones-node-server.git"
+  },
+  "author": "warnshouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warnshouse/barebones-node-server/issues"
+  },
+  "homepage": "https://github.com/warnshouse/barebones-node-server#readme"
+}
